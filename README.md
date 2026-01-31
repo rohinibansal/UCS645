@@ -8,17 +8,15 @@ This repository contains laboratory assignments for the course UCS645.
 
 \## Folder Structure
 
-UCS645
+UCS645/
+ ├── README.md
+ ├── LAB1/
+ │   ├── q1.cpp
+ │   ├── q2.cpp
+ │   ├── q3.cpp
+ │   └── report1.pdf
+ └── LAB2/
 
-&nbsp;├── LAB1
-
-&nbsp;│   ├── q1.cpp   (DAXPY using OpenMP)
-
-&nbsp;│   ├── q2.cpp   (Matrix Multiplication using OpenMP)
-
-&nbsp;│   └── q3.cpp   (Calculation of π using OpenMP)
-
-&nbsp;└── LAB2
 
 
 
