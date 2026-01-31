@@ -2,7 +2,7 @@
 
 
 
-This repository contains lab work for the course \*\*UCS645 (Parallel Computing / OpenMP)\*\*.
+This repository contains laboratory assignments for the course UCS645.
 
 
 
@@ -10,25 +10,23 @@ This repository contains lab work for the course \*\*UCS645 (Parallel Computing 
 
 UCS645
 
-├── LAB1
+&nbsp;├── LAB1
 
-│ ├── q1.cpp (DAXPY using OpenMP)
+&nbsp;│   ├── q1.cpp   (DAXPY using OpenMP)
 
-│ ├── q2.cpp (Matrix Multiplication using OpenMP)
+&nbsp;│   ├── q2.cpp   (Matrix Multiplication using OpenMP)
 
-│ └── q3.cpp (Calculation of π using OpenMP)
+&nbsp;│   └── q3.cpp   (Calculation of π using OpenMP)
 
-└── LAB2
-
-
+&nbsp;└── LAB2
 
 
 
 \## LAB1 – Assignment 1
 
-\- DAXPY loop performance analysis
+\- Performance evaluation of DAXPY loop
 
-\- Parallel matrix multiplication (1D \& 2D threading)
+\- Parallel matrix multiplication (1D and 2D threading)
 
 \- Calculation of π using OpenMP reduction
 
