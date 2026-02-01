@@ -1,15 +1,11 @@
-\# UCS645 – OpenMP Laboratory
 
 
+# UCS645 – OpenMP Laboratory
 
-This repository contains laboratory assignments for the course UCS645.
+This repository contains lab assignments for the course UCS645.
 
-
-
-\## Folder Structure
-
+## Folder Structure
 UCS645/
- ├── README.md
  ├── LAB1/
  │   ├── q1.cpp
  │   ├── q2.cpp
@@ -17,20 +13,16 @@ UCS645/
  │   └── report1.pdf
  └── LAB2/
 
+## Compilation
+g++ q1.cpp -fopenmp -O3 -o q1
+g++ q2.cpp -fopenmp -O3 -o q2
+g++ q3.cpp -fopenmp -O3 -o q3
 
+## Execution
+./q1
+./q2
+./q3
 
-
-\## LAB1 – Assignment 1
-
-\- Performance evaluation of DAXPY loop
-
-\- Parallel matrix multiplication (1D and 2D threading)
-
-\- Calculation of π using OpenMP reduction
-
-
-
-All programs are implemented using OpenMP and compiled using GCC.
 
 
 
